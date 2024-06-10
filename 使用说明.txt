@@ -1,0 +1,9 @@
+使用步骤：
+1. 参照 equation - 副本.py 的格式，在 equation.py 文件中修改函数，使返回值反映间接测量量与直接测量量之间的函数关系。equation.py 文件原有函数反映迈克尔逊干涉实验折射率n与薄片厚度t、旋转角度theta、条纹变化数N的关系。
+【特别注意】如有运算需要，请调用sympy库。若调用math库，会出现不兼容。
+2. 点开 main.py 并运行，按指引输入相关信息。
+3. 若 main.py 不能正常工作，可以在 test.py 自行编程，所有计算函数均有注释。
+4. 请勿修改 function_both.py, function_control.py, function_direct.py, function_indirect.py, main.py 文件中的内容。 
+
+祝你学习顺利，工作愉快！
+LI Kele 2024/5/4 in Guangzhou
